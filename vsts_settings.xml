@@ -1,0 +1,15 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array />
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

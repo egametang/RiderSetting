@@ -1,0 +1,65 @@
+<keymap version="1" name="tanghai" parent="ReSharper">
+  <action id="ActivateBuildToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="BuildSolutionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.NavigateExportedAction">
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="Database.OpenDbStorageAction" />
+  <action id="EditSource" />
+  <action id="ExternalJavaDoc" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="FindUsages">
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="Move" />
+  <action id="QuickJavaDoc" />
+  <action id="RiderUnitTestAppendTestsAction" />
+  <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestNewSessionAction" />
+  <action id="RiderUnitTestRepeatPreviousRunAction" />
+  <action id="RiderUnitTestRunContextAction" />
+  <action id="RiderUnitTestRunCurrentSessionAction" />
+  <action id="RiderUnitTestRunSolutionAction" />
+  <action id="RiderUnitTestSessionAbortAction" />
+  <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+</keymap>

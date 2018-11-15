@@ -1,0 +1,5 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="mySvnCommandLine" value="svn.exe" />
+  </component>
+</application>
