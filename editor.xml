@@ -1,5 +1,6 @@
 <application>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Courier New" />
   </component>
   <component name="EditorSettings">
