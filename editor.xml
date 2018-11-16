@@ -7,13 +7,4 @@
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-  </component>
 </application>
