@@ -1,13 +1,9 @@
 <scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-11-14T09:35:54</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-11-14T17:19:57</property>
+    <property name="modified">2018-11-15T22:33:37</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
 </scheme>
