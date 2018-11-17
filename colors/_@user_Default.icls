@@ -1,0 +1,20 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-11-17T10:53:30</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-11-17T11:30:24</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ff0c16" />
+        <option name="ERROR_STRIPE_COLOR" value="acb0bf" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value />
+    </option>
+  </attributes>
+</scheme>

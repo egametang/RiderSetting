@@ -1,9 +1,27 @@
 <scheme name="tanghai" version="142" parent_scheme="Visual Studio Dark">
   <metaInfo>
-    <property name="created">2018-11-15T10:31:17</property>
+    <property name="created">2018-11-17T11:03:51</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-11-15T10:32:51</property>
-    <property name="originalScheme">_@user_Visual Studio Dark</property>
+    <property name="modified">2018-11-17T11:31:48</property>
+    <property name="originalScheme">tanghai2</property>
   </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="747474" />
+    <option name="GUTTER_BACKGROUND" value="3c3f41" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="b59a46" />
+        <option name="ERROR_STRIPE_COLOR" value="3c4248" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="3c3f41" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
