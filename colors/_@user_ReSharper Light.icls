@@ -1,0 +1,20 @@
+<scheme name="_@user_ReSharper Light" version="142" parent_scheme="ReSharper Light">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-11-17T10:05:03</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-11-17T10:31:04</property>
+    <property name="originalScheme">ReSharper Light</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

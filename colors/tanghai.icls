@@ -3,7 +3,54 @@
     <property name="created">2018-11-15T10:31:17</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-11-15T10:32:51</property>
+    <property name="modified">2018-11-17T10:50:10</property>
     <property name="originalScheme">_@user_Visual Studio Dark</property>
   </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="bbb905" />
+    <option name="CARET_ROW_COLOR" value="666666" />
+    <option name="GUTTER_BACKGROUND" value="2a2a2a" />
+    <option name="INDENT_GUIDE" value="bbb905" />
+    <option name="NOTIFICATION_BACKGROUND" value="bbb905" />
+    <option name="RIGHT_MARGIN_COLOR" value="bbb100" />
+    <option name="SELECTED_INDENT_GUIDE" value="bbb100" />
+    <option name="SELECTED_TEARLINE_COLOR" value="bb9d00" />
+    <option name="VISUAL_INDENT_GUIDE" value="bbb100" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bb9f0b" />
+        <option name="BACKGROUND" value="44474a" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="bb9d00" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="bba400" />
+        <option name="BACKGROUND" value="3a3c3e" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="1dbb2f" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="bbb905" />
+        <option name="BACKGROUND" value="4d4d4d" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="2a2a2a" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
