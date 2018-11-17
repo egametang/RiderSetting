@@ -4,52 +4,10 @@
     <property name="created">2017-08-15T09:53:57</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2018-11-17T10:40:20</property>
+    <property name="modified">2018-08-23T15:51:45</property>
     <property name="originalScheme">Visual Studio Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Courier New" />
-  <colors>
-    <option name="METHOD_SEPARATORS_COLOR" value="bfc026" />
-    <option name="RIGHT_MARGIN_COLOR" value="e00017" />
-    <option name="SELECTED_INDENT_GUIDE" value="c80703" />
-    <option name="SEPARATOR_BELOW_COLOR" value="e4080e" />
-    <option name="TEARLINE_COLOR" value="d00103" />
-  </colors>
-  <attributes>
-    <option name="BREADCRUMBS_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="d32624" />
-        <option name="BACKGROUND" value="d60014" />
-      </value>
-    </option>
-    <option name="BREADCRUMBS_HOVERED">
-      <value>
-        <option name="FOREGROUND" value="585858" />
-        <option name="BACKGROUND" value="e00011" />
-      </value>
-    </option>
-    <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="2ceb32" />
-      </value>
-    </option>
-    <option name="LINE_FULL_COVERAGE">
-      <value>
-        <option name="FOREGROUND" value="d40013" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="ReSharper.OUTLINED_ENTITY">
-      <value>
-        <option name="EFFECT_COLOR" value="a9211b" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
