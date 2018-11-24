@@ -15,5 +15,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
