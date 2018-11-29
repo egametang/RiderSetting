@@ -11,10 +11,10 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="true" />
     <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="search.everywhere.toolwindows" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
