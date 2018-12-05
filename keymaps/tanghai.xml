@@ -72,6 +72,9 @@
   <action id="RiderUnitTestRunSolutionAction" />
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
