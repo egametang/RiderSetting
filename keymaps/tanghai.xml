@@ -1,4 +1,13 @@
 <keymap version="1" name="tanghai" parent="ReSharper">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="ActivateBuildToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -18,6 +27,15 @@
   </action>
   <action id="Database.OpenDbStorageAction" />
   <action id="EditSource" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="ExternalJavaDoc" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" />
