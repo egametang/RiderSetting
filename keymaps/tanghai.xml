@@ -1,12 +1,24 @@
 <keymap version="1" name="tanghai" parent="ReSharper">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ActivateBuildToolWindow" />
   <action id="ActivateProjectToolWindow" />
@@ -29,12 +41,22 @@
   <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ExternalJavaDoc" />
   <action id="FindInPath">
