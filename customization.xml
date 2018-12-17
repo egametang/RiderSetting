@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="NewFromTemplate" is_group="true" action_type="-1" position="19">
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="17">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
@@ -44,6 +44,14 @@
       <path value="UnityToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
+      <path value="UnityToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ToolbarFindGroup" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -54,9 +62,30 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="TriggerPlayInUnity" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
+      <path value="UnityToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Synchronize" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ActiveRuntimeGroup" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UnityToolbarActions" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SaveAll" is_action="true" action_type="-1" position="1">
@@ -69,6 +98,11 @@
       <path value="Main Toolbar" />
       <path value="Toolbar Run Actions" />
       <path value="ActiveRuntimeGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="BuildSolutionAction" is_action="true" action_type="-1" position="1">
@@ -104,6 +138,27 @@
       <path value="UnityToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
+      <path value="UnityToolbarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="BuildSolutionAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -111,14 +166,35 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="UnityToolbarActions" is_group="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SaveAll" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ActiveRuntimeGroup" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Synchronize" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TriggerPlayInUnity" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="ActiveRuntimeGroup" />
+      <path value="UnityToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="17">
@@ -127,7 +203,19 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="18">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="20">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
