@@ -1,0 +1,27 @@
+<application>
+  <component name="CodeLensSettings" defaultAnchor="Right">
+    <anchor>
+      <map>
+        <entry key="Unity implicit usage" value="Default" />
+        <entry key="Unity serialized field" value="Default" />
+        <entry key="VcsAuthorCodeLensProvider" value="Default" />
+      </map>
+    </anchor>
+    <enabled>
+      <map>
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
+    </enabled>
+    <order>
+      <list>
+        <option value="Unity implicit usage" />
+        <option value="Usages" />
+        <option value="Derived symbols" />
+        <option value="Extension methods" />
+        <option value="Exposing API" />
+        <option value="Unity serialized field" />
+        <option value="VcsAuthorCodeLensProvider" />
+      </list>
+    </order>
+  </component>
+</application>
