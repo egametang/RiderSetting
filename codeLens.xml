@@ -1,5 +1,5 @@
 <application>
-  <component name="CodeLensSettings" defaultAnchor="Right">
+  <component name="CodeLensSettings" defaultAnchor="Right" enabled="false">
     <anchor>
       <map>
         <entry key="Unity implicit usage" value="Default" />
