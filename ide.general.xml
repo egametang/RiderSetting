@@ -17,5 +17,6 @@
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
   </component>
 </application>
