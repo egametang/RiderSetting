@@ -1,9 +1,13 @@
 <application>
   <component name="UISettings">
-    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="DISABLE_MNEMONICS" value="true" />
+    <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="smoothScrolling" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
