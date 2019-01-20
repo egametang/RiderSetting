@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="8d1ad3a9-761f-4586-84b0-777449bfaa5a" name="egametang">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="egametang" />
     <option name="AUTH_TYPE" value="BASIC" />
