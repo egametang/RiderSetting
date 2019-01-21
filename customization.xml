@@ -18,7 +18,19 @@
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="25">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="27">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
