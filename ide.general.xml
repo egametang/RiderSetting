@@ -7,5 +7,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="ide.scratch.in.project.view" value="false" />
   </component>
 </application>
