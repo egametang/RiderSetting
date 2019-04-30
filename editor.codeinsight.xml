@@ -13,8 +13,4 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
   </component>
-  <component name="RiderCodeCompletionExtraSettings">
-    <option name="alwaysCompleteWithEnter" value="true" />
-    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
-  </component>
 </application>
