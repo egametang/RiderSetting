@@ -8,5 +8,8 @@
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.scratch.in.project.view" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
   </component>
 </application>
