@@ -6,5 +6,8 @@
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="ide.scratch.in.project.view" value="false" />
   </component>
 </application>
