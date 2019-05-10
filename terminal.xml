@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="powershell.app" />
     <option name="myTabName" value="PowerShell" />
   </component>
 </application>
