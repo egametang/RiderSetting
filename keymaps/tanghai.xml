@@ -75,7 +75,7 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt r" />
