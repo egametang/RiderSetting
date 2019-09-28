@@ -3,7 +3,7 @@
     <property name="created">2018-11-17T11:03:51</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-09-28T09:51:16</property>
+    <property name="modified">2019-09-28T10:22:35</property>
     <property name="originalScheme">tanghai2</property>
   </metaInfo>
   <colors>
@@ -17,9 +17,15 @@
         <option name="FOREGROUND" value="dcdcaa" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="dcdcaa" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fe7ecb" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
