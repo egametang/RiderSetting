@@ -1,0 +1,16 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="item" />
+      <item value="物品" />
+      <item value="道具" />
+      <item value="commodity" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
+  </component>
+</application>
