@@ -3,15 +3,22 @@
     <property name="created">2018-11-17T11:03:51</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-09-28T10:22:35</property>
+    <property name="modified">2019-10-09T18:00:19</property>
     <property name="originalScheme">tanghai2</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="747474" />
     <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
+    <option name="ScrollBar.thumbColor" value="0ac" />
   </colors>
   <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="dcdcaa" />
@@ -42,7 +49,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="dcdcdc" />
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="303030" />
       </value>
     </option>
   </attributes>
