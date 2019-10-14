@@ -85,11 +85,18 @@
   </action>
   <action id="Move" />
   <action id="QuickJavaDoc" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
   <action id="RiderUnitTestNewSessionAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
   <action id="RiderUnitTestRunContextAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="RiderUnitTestRunCurrentSessionAction" />
   <action id="RiderUnitTestRunSolutionAction" />
   <action id="RiderUnitTestSessionAbortAction" />
