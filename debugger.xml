@@ -7,12 +7,10 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="askForMissingSourceFileLocation" value="false" />
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
+          <option name="allowTypingDuringDebug" value="true" />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
         </configuration>
       </debugger>
     </debuggers>
