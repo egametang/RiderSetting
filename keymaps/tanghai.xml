@@ -77,16 +77,14 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="GotoFile" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="Move" />
   <action id="QuickJavaDoc" />
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderUnitTestAppendTestsAction" />
