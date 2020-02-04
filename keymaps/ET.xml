@@ -1,4 +1,4 @@
-<keymap version="1" name="tanghai" parent="ReSharper">
+<keymap version="1" name="ET" parent="ReSharper">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="meta c" />
     <keyboard-shortcut first-keystroke="ctrl c" />

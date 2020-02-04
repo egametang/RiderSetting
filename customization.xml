@@ -1,26 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="ActiveRuntimeGroup" />
-      <path value="UnityToolbarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -28,10 +8,6 @@
     <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="ActiveRuntimeGroup" />
-      <path value="UnityToolbarActions" />
-      <path value="Important Unity-related Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="3">
@@ -81,6 +57,11 @@
       <path value="DotNetProfiler.RunGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Back" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="BuildSolutionAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -88,16 +69,9 @@
       <path value="Run/Debug" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="4">
+    <group value="Forward" is_action="true" action_type="1" position="1">
       <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Android.CreateResourcesActionGroup" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Favorites View Popup Menu" />
-      <path value="New" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
