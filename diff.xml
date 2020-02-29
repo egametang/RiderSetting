@@ -32,7 +32,7 @@
       </entry>
       <entry key="Default">
         <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
