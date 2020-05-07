@@ -1,7 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="192.168.62.5" id="2ac7ee97-52ed-471b-bc7b-6bf272930c4d" port="6688" nameFormat="DESCRIPTIVE" username="ddtx" />
+      <sshConfig authType="PASSWORD" host="192.168.62.5" id="d4a5e0ca-adc9-4da0-afd9-b3ad1cf3eabf" port="6688" customName="192.168.62.5" nameFormat="CUSTOM" username="ddtx" />
+      <sshConfig host="61.160.255.92" id="7290ba79-e904-445b-a342-74fdad06b83c" keyPath="C:\Users\DH-Z-013\.ssh\255.92" port="6688" customName="61.160.255.92" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
