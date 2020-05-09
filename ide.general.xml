@@ -31,4 +31,12 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+        <entry key="RiderMemory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
