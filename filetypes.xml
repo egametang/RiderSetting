@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
