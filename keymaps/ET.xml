@@ -77,9 +77,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
+  <action id="GotoFile" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -104,7 +102,9 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="SearchEverywhere" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
