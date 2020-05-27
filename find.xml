@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Unity\Unity.HotfixView.csproj'" />
-    <option name="defaultScopeName" value="File '...\Unity\Unity.HotfixView.csproj'" />
+    <option name="customScope" value="Project 'Unity.HotfixView'" />
+    <option name="defaultScopeName" value="Project 'Unity.HotfixView'" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\Unity\Unity.HotfixView.csproj'" />
+    <option name="SEARCH_SCOPE" value="Project 'Unity.HotfixView'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
