@@ -25,6 +25,8 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -83,7 +85,15 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
   <action id="Move" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="QuickJavaDoc" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -105,9 +115,12 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SearchEverywhere" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
   <action id="XDebugger.JumpToSource" />
 </keymap>
