@@ -11,6 +11,11 @@
     <option name="FONT_FAMILY" value="Courier New" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="C#" value="true" />
+      </map>
+    </option>
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
