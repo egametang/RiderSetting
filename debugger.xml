@@ -7,10 +7,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="allowTypingDuringDebug" value="true" />
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
         </configuration>
       </debugger>
     </debuggers>
