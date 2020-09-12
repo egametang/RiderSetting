@@ -40,6 +40,8 @@
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="Database.OpenDbStorageAction" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -94,6 +96,8 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="QuickJavaDoc" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -120,12 +124,11 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
-  <action id="Terminal.MoveToEditor">
-    <keyboard-shortcut first-keystroke="alt right" />
-  </action>
-  <action id="Terminal.MoveToolWindowTabLeft" />
-  <action id="Terminal.MoveToolWindowTabRight">
+  <action id="Terminal.MoveToolWindowTabLeft">
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
