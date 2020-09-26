@@ -1,11 +1,11 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="192.168.62.5" id="d4a5e0ca-adc9-4da0-afd9-b3ad1cf3eabf" port="6688" customName="192.168.62.5" nameFormat="CUSTOM" username="ddtx">
-        <option name="customName" value="192.168.62.5" />
-      </sshConfig>
       <sshConfig host="61.160.255.92" id="7290ba79-e904-445b-a342-74fdad06b83c" keyPath="C:\Users\DH-Z-013\.ssh\255.92" port="6688" customName="61.160.255.92" nameFormat="CUSTOM" username="root">
         <option name="customName" value="61.160.255.92" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.62.5" id="d4a5e0ca-adc9-4da0-afd9-b3ad1cf3eabf" port="6688" customName="192.168.62.5" nameFormat="CUSTOM" username="ddtx">
+        <option name="customName" value="192.168.62.5" />
       </sshConfig>
       <sshConfig host="121.201.49.6" id="137504e7-b539-4125-bfc2-6b66ea4cd133" keyPath="C:\Users\DH-Z-013\.ssh\255.92" port="6688" customName="daqu@121.201.49.6:6688" nameFormat="CUSTOM" username="daqu">
         <option name="customName" value="daqu@121.201.49.6:6688" />
