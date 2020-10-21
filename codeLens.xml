@@ -3,5 +3,6 @@
     <enabled>
       <map />
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
