@@ -18,6 +18,7 @@
       </map>
     </option>
     <option name="STRIP_TRAILING_SPACES" value="None" />
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="JsonEditorOptions">
