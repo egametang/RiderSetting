@@ -1,7 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
