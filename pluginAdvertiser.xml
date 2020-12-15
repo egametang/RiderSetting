@@ -749,6 +749,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.localizationmanager">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.manifest">
           <value>
             <plugin>
