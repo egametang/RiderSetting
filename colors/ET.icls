@@ -1,0 +1,56 @@
+<scheme name="ET" version="142" parent_scheme="Visual Studio Dark">
+  <metaInfo>
+    <property name="created">2019-11-14T17:39:43</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2019.2.3.0.0</property>
+    <property name="modified">2019-11-14T17:39:46</property>
+    <property name="originalScheme">tanghai</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="747474" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
+    <option name="GUTTER_BACKGROUND" value="3c3f41" />
+    <option name="ScrollBar.thumbColor" value="ac" />
+  </colors>
+  <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="1e1e1e" />
+        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+      </value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="dcdcaa" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fe7ecb" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="9cdcfe" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="b59a46" />
+        <option name="ERROR_STRIPE_COLOR" value="3c4248" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="303030" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,12 @@
+<scheme name="_@user_Visual Studio Dark" version="142" parent_scheme="Visual Studio Dark">
+  <metaInfo>
+    <property name="created">2018-11-14T09:35:54</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-11-17T10:57:15</property>
+    <property name="originalScheme">Visual Studio Dark</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="4f4f4f" />
+  </colors>
+</scheme>
