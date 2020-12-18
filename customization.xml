@@ -10,13 +10,6 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="DotNetProfiler.RunGroup" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -33,12 +26,6 @@
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
       <path value="ActiveRuntimeGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -48,13 +35,6 @@
       <path value="Toolbar Run Actions" />
       <path value="ActiveRuntimeGroup" />
       <path value="UnityToolbarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <path value="DotNetProfiler.RunGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Back" is_action="true" action_type="1" position="0">
