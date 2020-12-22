@@ -37,4 +37,11 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="DpaIcon" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
