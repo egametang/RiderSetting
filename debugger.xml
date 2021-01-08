@@ -12,7 +12,6 @@
           <option name="processExceptionsOutsideMyCode" value="true" />
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;192.168.62.6&quot; PORT=&quot;6688&quot; USERNAME=&quot;ddtx&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
-            <option value="&lt;credentials HOST=&quot;121.201.4.231&quot; PORT=&quot;6688&quot; USERNAME=&quot;qgfl&quot; PRIVATE_KEY_FILE=&quot;C:\Users\DH-Z-013\.ssh\qgfl.key&quot; USE_KEY_PAIR=&quot;true&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
         </configuration>
       </debugger>
