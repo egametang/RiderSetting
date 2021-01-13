@@ -1,5 +1,6 @@
 <application>
   <component name="UsageViewSettings">
+    <option name="IS_EXPANDED" value="true" />
     <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.48262295" />
     <option name="IS_SORT_MEMBERS_ALPHABETICALLY" value="true" />
