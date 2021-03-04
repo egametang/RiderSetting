@@ -37,5 +37,6 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
+    <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
   </component>
 </application>
