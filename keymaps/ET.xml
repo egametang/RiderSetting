@@ -124,11 +124,17 @@
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
   <action id="Terminal.MoveToolWindowTabLeft">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="Terminal.MoveToolWindowTabRight">
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
