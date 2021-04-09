@@ -33,10 +33,10 @@
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
-    <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
+    <entry key="ea.enable.developers.list" value="false" />
   </component>
 </application>
