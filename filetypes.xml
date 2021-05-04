@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="csx" type="C#" />
       <mapping ext="sh" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
