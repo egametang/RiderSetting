@@ -20,8 +20,11 @@
       <sshConfig host="121.201.49.6" id="4c261ef7-aa93-478f-acb4-3c151fa3a71a" keyPath="C:\Users\DH-Z-013\.ssh\255.92" port="6688" customName="daqu@121.201.49.6:6688" nameFormat="CUSTOM" username="daqu">
         <option name="customName" value="daqu@121.201.49.6:6688" />
       </sshConfig>
-      <sshConfig host="1.117.45.59" id="f2a0a6cb-6927-444b-8055-61284fa2cf91" keyPath="C:\Users\DH-Z-013\.ssh\yanfa" port="6688" customName="1.117.45.59" nameFormat="CUSTOM" username="qgfl">
-        <option name="customName" value="1.117.45.59" />
+      <sshConfig host="1.117.45.59" id="f2a0a6cb-6927-444b-8055-61284fa2cf91" keyPath="C:\Users\DH-Z-013\.ssh\yanfa" port="6688" customName="618-1区" nameFormat="CUSTOM" username="qgfl">
+        <option name="customName" value="618-1区" />
+      </sshConfig>
+      <sshConfig host="121.5.49.212" id="48f50e87-b882-4591-823e-2ebec97b41e1" keyPath="C:\Users\DH-Z-013\.ssh\yanfa" port="6688" customName="618日志服" nameFormat="CUSTOM" username="qgfl">
+        <option name="customName" value="618日志服" />
       </sshConfig>
     </configs>
   </component>
