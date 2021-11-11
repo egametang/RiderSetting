@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="true" />
     <option name="myShellPath" value="powershell" />
     <option name="myTabName" value="PowerShell" />
   </component>

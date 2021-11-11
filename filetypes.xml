@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="csx" type="C#" />
       <mapping ext="sh" type="PLAIN_TEXT" />
-      <removed_mapping ext="proto" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
