@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping ext="csx" type="C#" />
       <mapping ext="sh" type="PLAIN_TEXT" />
+      <mapping pattern="*.lua.txt" type="lua" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
