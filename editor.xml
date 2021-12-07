@@ -14,15 +14,13 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Courier New" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
         <entry key="C#" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
