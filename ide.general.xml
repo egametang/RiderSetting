@@ -24,4 +24,11 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="PowerSaveMode" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
