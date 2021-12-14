@@ -3,14 +3,9 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="protobuf">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="4" />
     <option name="SPACE_BEFORE_COMMA" value="true" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="SPACE_WITHIN_BRACES" value="true" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="prototext">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="4" />
