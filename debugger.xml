@@ -7,9 +7,16 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="automaticallyRefreshWatches" value="true" />
           <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="groupNonPublicMembers" value="true" />
+          <option name="ignorePrecompiledAssemblies" value="true" />
           <option name="needNotifyWhenStoppedInExternalCode" value="false" />
           <option name="processExceptionsOutsideMyCode" value="true" />
+          <option name="showCompilerGeneratedMembers" value="true" />
+          <option name="showFullyQualifiedTypeNames" value="true" />
+          <option name="showHexIntegerValues" value="true" />
+          <option name="showRawNodeForDebuggerBrowsableValues" value="true" />
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;192.168.62.6&quot; PORT=&quot;6688&quot; USERNAME=&quot;ddtx&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
