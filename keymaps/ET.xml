@@ -86,14 +86,15 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
-  <action id="Jdbc.OpenEditor.DDL">
-    <mouse-shortcut keystroke="control button1" />
-  </action>
+  <action id="GotoTypeDeclaration" />
+  <action id="Jdbc.OpenEditor.DDL" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="Move" />
@@ -133,9 +134,7 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl e" />
-  </action>
+  <action id="SearchEverywhere" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
