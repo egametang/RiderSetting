@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="$SelectAll" />
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
@@ -27,14 +28,15 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AssemblyDiffAction" />
   <action id="Back">
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.NavigateExportedAction">
     <mouse-shortcut keystroke="control button3" />
@@ -42,6 +44,7 @@
   <action id="Database.OpenDbStorageAction" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="Diff.ShowDiff" />
   <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -62,10 +65,15 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="ExternalJavaDoc" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="alt f" />
     <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -75,8 +83,7 @@
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
@@ -99,12 +106,16 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc" />
+  <action id="RecentFiles" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
+  <action id="RiderCoveringTestsPopupDebugAction" />
+  <action id="RiderNuGetToggleDependenciesExpanderAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
+  <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RiderUnitTestNewSessionAction" />
   <action id="RiderUnitTestRepeatPreviousRunAction" />
   <action id="RiderUnitTestRunContextAction" />
@@ -115,15 +126,24 @@
   <action id="RiderUnitTestRunSolutionAction" />
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
+  <action id="RiderUnitTestTreeTextFilterAction">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id="SearchEverywhere" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
@@ -138,5 +158,7 @@
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
