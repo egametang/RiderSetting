@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
