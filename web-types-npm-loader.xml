@@ -1,0 +1,5 @@
+<application>
+  <component name="WebTypesNpmLoader">
+    <enabled />
+  </component>
+</application>
