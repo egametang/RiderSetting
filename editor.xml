@@ -18,6 +18,11 @@
   </component>
   <component name="CodeVisionSettings">
     <option name="defaultPosition" value="Right" />
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="VcsAuthorCodeLensProvider" />
+      </set>
+    </option>
     <option name="enabled" value="false" />
     <option name="visibleMetricsAboveDeclarationCount" value="1" />
     <option name="visibleMetricsNextToDeclarationCount" value="1" />
