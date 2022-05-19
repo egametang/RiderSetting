@@ -31,6 +31,7 @@
   <action id="AssemblyDiffAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -84,6 +85,7 @@
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
