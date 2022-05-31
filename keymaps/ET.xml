@@ -35,6 +35,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="ChangesView.Rename" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.NavigateExportedAction">
@@ -88,6 +89,8 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Git.Rename.Local.Branch" />
+  <action id="Git.Reword.Commit" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="control button1" />
@@ -111,11 +114,16 @@
   <action id="PreviousTab" />
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderCoveringTestsPopupDebugAction" />
+  <action id="RiderCoveringTestsPopupRunAllAction" />
   <action id="RiderNuGetToggleDependenciesExpanderAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
@@ -139,6 +147,7 @@
   </action>
   <action id="SearchEverywhere" />
   <action id="SendEOF" />
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
   <action id="SurroundWithLiveTemplate">
@@ -158,6 +167,7 @@
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
+  <action id="UsageFiltering.ReadAccess" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
   <action id="XDebugger.CopyWatch" />
