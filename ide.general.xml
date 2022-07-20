@@ -24,5 +24,6 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
