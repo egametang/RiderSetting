@@ -36,6 +36,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_ON_ENTER" value="false" />
