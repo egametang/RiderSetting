@@ -5,6 +5,7 @@
       <mapping ext="csx" type="C#" />
       <mapping ext="sh" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="tps" approved="true" type="XML" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.lua.txt" type="lua" />
     </extensionMap>
