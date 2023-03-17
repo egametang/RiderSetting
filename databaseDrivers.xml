@@ -5,7 +5,7 @@
     <driver id="derby.embedded" name="Derby (Embedded)" />
     <driver id="derby.remote" name="Derby (Remote)" />
     <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.11" />
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" />
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" />
