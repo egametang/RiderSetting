@@ -2,6 +2,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="protobuf">
     <option name="SPACE_BEFORE_COMMA" value="true" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
