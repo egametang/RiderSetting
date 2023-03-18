@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="$SelectAll" />
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
@@ -30,6 +31,7 @@
   <action id="AssemblyDiffAction" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -60,9 +62,6 @@
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="meta y" />
-  </action>
-  <action id="Editor SelectAll">
-    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
