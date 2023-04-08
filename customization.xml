@@ -24,5 +24,15 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Back" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>

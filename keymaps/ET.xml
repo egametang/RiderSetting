@@ -16,9 +16,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
-  <action id="$SelectAll">
-    <keyboard-shortcut first-keystroke="meta a" />
-  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
@@ -32,8 +29,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AssemblyDiffAction" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="alt a" />
-    <keyboard-shortcut first-keystroke="ctrl a" />
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -66,32 +62,34 @@
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="Editor SelectAll">
-    <keyboard-shortcut first-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
-    <keyboard-shortcut first-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="FindUsages">
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
@@ -118,16 +116,15 @@
   <action id="PreviousTab" />
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="meta f3" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderCoveringTestsPopupDebugAction" />
   <action id="RiderCoveringTestsPopupRunAllAction" />
+  <action id="RiderCoveringTestsPopupRunAllTestsAction" />
+  <action id="RiderCoveringTestsPopupRunSelectedTestsAction" />
   <action id="RiderNuGetToggleDependenciesExpanderAction" />
   <action id="RiderUnitTestAppendTestsAction" />
   <action id="RiderUnitTestDebugContextAction" />
@@ -146,19 +143,21 @@
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
+  <action id="SaveAll" />
+  <action id="SaveDocument" />
+  <action id="SchemaCompare.SaveScmpFile" />
   <action id="SearchEverywhere" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TableResult.GrowSelection" />
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
@@ -172,6 +171,7 @@
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
   <action id="UsageFiltering.ReadAccess" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.EditSource" />
   <action id="XDebugger.CopyWatch" />
