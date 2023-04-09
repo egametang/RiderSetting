@@ -29,7 +29,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AssemblyDiffAction" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta a" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -41,10 +41,14 @@
   <action id="Console.TableResult.NavigateExportedAction">
     <mouse-shortcut keystroke="control button3" />
   </action>
+  <action id="ContextHelp" />
   <action id="Database.OpenDbStorageAction" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
+  <action id="Documentation.Forward">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -73,23 +77,24 @@
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="meta f" />
     <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="FindUsages">
     <mouse-shortcut keystroke="control button3" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
@@ -98,7 +103,6 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="GotoTypeDeclaration" />
@@ -117,8 +121,8 @@
   <action id="QuickJavaDoc" />
   <action id="RecentFiles" />
   <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="meta r" />
-    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="RiderBackendAction-EncapsulateField" />
   <action id="RiderCoveringTestsPopupDebugAction" />
@@ -139,15 +143,14 @@
   <action id="RiderUnitTestRunSolutionAction" />
   <action id="RiderUnitTestSessionAbortAction" />
   <action id="RiderUnitTestSessionRerunFailedTestsAction" />
-  <action id="RiderUnitTestTreeTextFilterAction">
-    <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
+  <action id="RiderUnitTestTreeTextFilterAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SaveDocument" />
   <action id="SchemaCompare.SaveScmpFile" />
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
