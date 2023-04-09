@@ -146,7 +146,9 @@
   <action id="SaveAll" />
   <action id="SaveDocument" />
   <action id="SchemaCompare.SaveScmpFile" />
-  <action id="SearchEverywhere" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
