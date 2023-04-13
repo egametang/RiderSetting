@@ -13,7 +13,6 @@
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
-    <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="$Undo">
