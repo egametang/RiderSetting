@@ -1,30 +1,15 @@
 <code_scheme name="ET" version="173">
-  <option name="SOFT_MARGINS" value="120" />
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="protobuf">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="4" />
-    <option name="SPACE_BEFORE_COMMA" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="prototext">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="4" />
-    <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
