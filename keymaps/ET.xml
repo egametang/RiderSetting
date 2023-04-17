@@ -151,7 +151,6 @@
   <action id="SaveDocument" />
   <action id="SchemaCompare.SaveScmpFile" />
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="alt e" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="SendEOF" />
