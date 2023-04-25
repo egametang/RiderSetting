@@ -1,5 +1,10 @@
 <application>
   <component name="RiderPerAppSettingsManager">
+    <option name="enabledBlacklistToolWindowsId">
+      <set>
+        <option value="dotMemory Profiler" />
+      </set>
+    </option>
     <option name="oldToolWindowStateMigrated" value="true" />
     <option name="perIdeMigrationStage" value="1" />
     <option name="toolWindowsPerApp" value="true" />
