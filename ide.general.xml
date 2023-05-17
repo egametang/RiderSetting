@@ -25,6 +25,7 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="ide.experimental.ui" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
