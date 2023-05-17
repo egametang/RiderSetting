@@ -104,9 +104,7 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="control button1" />
   </action>
-  <action id="GotoFile">
-    <keyboard-shortcut first-keystroke="f1" />
-  </action>
+  <action id="GotoFile" />
   <action id="GotoTypeDeclaration" />
   <action id="Jdbc.OpenEditor.DDL" />
   <action id="MethodDown" />
@@ -150,7 +148,9 @@
   <action id="SaveAll" />
   <action id="SaveDocument" />
   <action id="SchemaCompare.SaveScmpFile" />
-  <action id="SearchEverywhere" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
