@@ -24,8 +24,7 @@
     <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
-    <entry key="debugger.new.tool.window.layout" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
