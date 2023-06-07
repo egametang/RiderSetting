@@ -20,7 +20,22 @@
     <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="Burst compiled code" />
+        <option value="Covering tests" />
+        <option value="Derived symbols" />
+        <option value="Exposing API" />
+        <option value="Extension methods" />
+        <option value="F# Inferred types" />
+        <option value="IL code" />
+        <option value="UFunctions implementations" />
+        <option value="UFunctions usages" />
+        <option value="UProperties write access" />
+        <option value="Unity Assets Usage" />
+        <option value="Unity implicit usage" />
+        <option value="Unity serialized field" />
+        <option value="Usages" />
         <option value="VcsAuthorCodeLensProvider" />
+        <option value="derived blueprint class" />
       </set>
     </option>
     <option name="enabled" value="false" />
@@ -38,6 +53,11 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+    <option name="ESCAPE_DOC_ON_COPY_PASTE" value="false" />
+  </component>
   <component name="JsonEditorOptions">
     <option name="COMMA_ON_ENTER" value="false" />
     <option name="COMMA_ON_MATCHING_BRACES" value="false" />
@@ -45,6 +65,9 @@
     <option name="AUTO_QUOTE_PROP_NAME" value="false" />
     <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
+  <component name="RiderCodeLensSettings">
+    <option name="showUnavailableLenses" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
