@@ -5,6 +5,19 @@
       <version value="2.4.0-1" url="https://registry.npmjs.org/@web-types/at-nuxt-vue-app/-/at-nuxt-vue-app-2.4.0-1.tgz" />
       <version value="2.0.0-1" url="https://registry.npmjs.org/@web-types/at-nuxt-vue-app/-/at-nuxt-vue-app-2.0.0-1.tgz" />
     </package>
+    <package name="@web-types/bootstrap-vue">
+      <version value="2.0.0-rc.20.2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.20.2.tgz" />
+      <version value="2.0.0-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-1.tgz" />
+      <version value="1.5.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.5.0-2.tgz" />
+      <version value="1.4.1-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.4.1-1.tgz" />
+      <version value="1.4.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.4.0-2.tgz" />
+      <version value="1.3.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.3.0-2.tgz" />
+      <version value="1.2.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.2.0-2.tgz" />
+      <version value="1.1.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.1.0-2.tgz" />
+      <version value="1.0.2-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.2-2.tgz" />
+      <version value="1.0.1-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.1-2.tgz" />
+      <version value="1.0.0-2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-1.0.0-2.tgz" />
+    </package>
     <package name="@web-types/lit">
       <version value="2.0.0-3" url="https://registry.npmjs.org/@web-types/lit/-/lit-2.0.0-3.tgz" />
     </package>
