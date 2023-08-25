@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="true" />
+    <option name="myShellPath" value="pwsh.exe" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
