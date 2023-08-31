@@ -2,6 +2,7 @@
   <component name="RiderPerAppSettingsManager">
     <option name="enabledBlacklistToolWindowsId">
       <set>
+        <option value="Bookmarks" />
         <option value="dotMemory Profiler" />
       </set>
     </option>
